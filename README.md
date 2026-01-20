@@ -1,4 +1,4 @@
-# Lily’s Game: Cats vs. Cows Across Time and Space
+# Lily’s Game: Cats vs. Cows Across Space and Time
 
 Lily’s Game is a playful, surreal anthology of mini-games that together tell an ongoing story about cats fighting cows across time, space, and reality itself.
 
